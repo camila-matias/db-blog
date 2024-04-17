@@ -1,0 +1,188 @@
+{
+    "artigos": [
+            {
+                "id": "inline-interno-externo",
+                "titulo": "CSS inline, interno e externo",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "seletores",
+                "titulo": "Seletores, propriedades de texto e shorthands",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "box-model",
+                "titulo": "Box model e medidas em CSS",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "fontes-personalizadas",
+                "titulo": "Fontes personalizadas",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },                
+            {
+                "id": "position",
+                "titulo": "Position e Z-index",
+                "tag": "Posicionamento",
+                "classeTag": "artigo__tag--posicionamento",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "display",
+                "titulo": "Display em CSS",
+                "tag": "Posicionamento",
+                "classeTag": "artigo__tag--posicionamento",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "transitions",
+                "titulo": "Transitions",
+                "tag": "Animações",
+                "classeTag": "artigo__tag--animacoes",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "variaveis-css",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "animations",
+                "titulo": "Animations",
+                "tag": "Animações",
+                "classeTag": "artigo__tag--animacoes",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "flexbox",
+                "titulo": "Flexbox",
+                "tag": "Posicionamento",
+                "classeTag": "artigo__tag--posicionamento",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "grid",
+                "titulo": "Grid",
+                "tag": "Posicionamento",
+                "classeTag": "artigo__tag--posicionamento",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "responsividade",
+                "titulo": "Design Responsivo",
+                "tag": "Responsividade",
+                "classeTag": "artigo__tag--responsividade",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "pre-processadores",
+                "titulo": "Pré Processadores CSS",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "sass",
+                "titulo": "Pré Processadores CSS",
+                "tag": "CSS Básico",
+                "classeTag": "artigo__tag--css-basico",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "acessibilidade",
+                "titulo": "Acessibilidade no Front-End",
+                "tag": "HTML",
+                "classeTag": "artigo__tag--html",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "seo",
+                "titulo": "SEO no Front-End",
+                "tag": "HTML",
+                "classeTag": "artigo__tag--html",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "javascript",
+                "titulo": "Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "condicionais",
+                "titulo": "Condicionais em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "ternario-switch",
+                "titulo": "Ternário e Switch em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "package-managers",
+                "titulo": "Package Managers em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "objetos",
+                "titulo": "Objetos em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "arrays",
+                "titulo": "Arrays em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "funcoes",
+                "titulo": "Funções em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            },
+            {
+                "id": "api",
+                "titulo": "APIs em Javascript",
+                "tag": "Javascript",
+                "classeTag": "artigo__tag--javascript",
+                "autor": "Camila Matias"
+            }
+        ],
+
+    "comentarios": [
+        {
+            "id": 1,
+            "id-artigo": "javascript",
+            "id-usuario": 1,
+            "comentario": "Esse artigo é icônico"
+        }
+        ],
+
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Camila Matias",
+            "email": "camila@gmail.com"
+        }
+        ]
+}
